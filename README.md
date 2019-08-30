@@ -1,2 +1,2 @@
-# 4to-bases-de-datos
-Bases de Datos - Materia de cuarto año de la orientación
+# Bases de Datos - 4to año
+Repositorio de la materia Taller de Programación, correspondiente al tercer año de la orientación
