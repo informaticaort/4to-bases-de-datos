@@ -17,3 +17,8 @@ Para instalar Jupyter:
 Para correr/ejecutar Jupyter 
 
 `jupyter notebook`
+
+## Otras opciones para ejecutar Notebooks sin depender de una instalación de Python en tu PC 
+
+[Jupyter Notebook Online](https://jupyter.org/try) -> Eligiendo la opción de Classic Notebook con IPython
+[Gppgle Colaboratory](https://colab.research.google.com) -> Cambia el método para subir datasets al Notebook
