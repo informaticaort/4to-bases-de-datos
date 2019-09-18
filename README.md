@@ -22,4 +22,4 @@ Para correr/ejecutar Jupyter
 
 [Jupyter Notebook Online](https://jupyter.org/try) -> Eligiendo la opción de Classic Notebook con IPython
 
-[Gppgle Colaboratory](https://colab.research.google.com) -> Cambia el método para subir datasets al Notebook
+[Google Colaboratory](https://colab.research.google.com) -> Cambia el método para subir datasets al Notebook
