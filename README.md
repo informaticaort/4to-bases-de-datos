@@ -22,4 +22,9 @@ Para correr/ejecutar Jupyter
 
 [Jupyter Notebook Online](https://jupyter.org/try) -> Eligiendo la opción de Classic Notebook con IPython
 
-[Google Colaboratory](https://colab.research.google.com) -> Cambia el método para subir datasets al Notebook
+[Google Colaboratory](https://colab.research.google.com)
+
+Para cargar archivos (por ejemplo datasets, archivos .csv) desde Colab, escribimos estas dos líneas
+
+`url = 'https://raw.githubusercontent.com/informaticaort/extra-datathon/master/datasets/titanic.csv'`
+`df1 = pd.read_csv(url,error_bad_lines=False)`
