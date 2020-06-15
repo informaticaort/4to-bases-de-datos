@@ -15,4 +15,5 @@ Para programar y ejecutar los archivos con formato .ipynb, utilizaremos la herra
 Para cargar archivos (por ejemplo, un archivo .csv alojado en algún repositorio de Github) desde Google Colaboratory, escribimos estas dos líneas:
 
 `url = 'https://raw.githubusercontent.com/informaticaort/extra-datathon/master/datasets/titanic.csv'`
+
 `df1 = pd.read_csv(url,error_bad_lines=False)`
